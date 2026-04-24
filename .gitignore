@@ -1,2 +1,12 @@
 # Environment variables
 .env
+
+# Node modules (IMPORTANT)
+node_modules/
+
+# Build files
+dist/
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
